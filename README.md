@@ -5,7 +5,7 @@ Hello, 👋
 I'm Jessica!                                                                                
      </h1>                
     
-  <li>I’m currently learning web development & web design. <br></li>
+  <li>I’m currently learning web development & UI/UX design. <br></li>
   <li>My Portfolio: https://jessicatodor.github.io/Portfolio/</li> <br>
   </body>
 </html>
