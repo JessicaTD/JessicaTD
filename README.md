@@ -5,7 +5,7 @@ Hello, 👋
 I'm Jessica!                                                                                
      </h1>                
     
-  <li>I’m currently learning front-end web development<br></li>
+  <li>I’m currently learning web development<br></li>
   <li>My Portfolio: https://jessicatd.github.io/Portfolio/</li> <br>
   </body>
 </html>
